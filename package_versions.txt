@@ -17,7 +17,7 @@ coreutils               9.11-r0           apk
 coreutils-env           9.11-r0           apk     
 coreutils-fmt           9.11-r0           apk     
 coreutils-sha512sum     9.11-r0           apk     
-curl                    8.20.0-r1         apk     
+curl                    8.21.0-r0         apk     
 findutils               4.10.0-r1         apk     
 jq                      1.8.2-r0          apk     
 libapk                  3.0.6-r0          apk     
@@ -25,9 +25,9 @@ libattr                 2.5.2-r2          apk
 libbsd                  0.12.2-r0         apk     
 libbz2                  1.0.8-r6          apk     
 libcrypto3              3.5.7-r0          apk     
-libcurl                 8.20.0-r1         apk     
+libcurl                 8.21.0-r0         apk     
 libdeflate              1.25-r0           apk     
-libevent                2.1.12-r9         apk     
+libevent                2.1.13-r0         apk     
 libexpat                2.8.2-r0          apk     
 libffi                  3.5.2-r1          apk     
 libgcc                  15.2.0-r6         apk     
